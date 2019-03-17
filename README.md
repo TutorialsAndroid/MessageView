@@ -16,6 +16,8 @@ Its a container view, so you can add any type of message or social post such as 
 ### Installation
 add gradle dependency to your dependency list:
 
+Add it in your root build.gradle at the end of repositories:
+
 ``` groovy
 allprojects {
 		repositories {
@@ -24,7 +26,7 @@ allprojects {
 		}
 	}
 ```
-
+Step 2. Add the dependency
 ``` groovy
 dependencies {
 	 implementation 'com.github.TutorialsAndroid:Postui:v0.1'
