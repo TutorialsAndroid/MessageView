@@ -11,7 +11,7 @@ Its a container view, so you can add any type of message or social post such as 
 5. Post view without arrow
 
 ### Sample Screen
-![PostMessageView]()
+![](https://github.com/TutorialsAndroid/Postui/blob/master/art/device-2019-03-17-130446.png)
 
 ### Installation
 add gradle dependency to your dependency list:
