@@ -18,7 +18,7 @@ add gradle dependency to your dependency list:
 
 ``` groovy
 dependencies {
-	compile 'me.himanshusoni.chatmessageview:chat-message-view:1.0.7'
+	compile ''
 }
 ```
 
