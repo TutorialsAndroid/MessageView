@@ -17,8 +17,17 @@ Its a container view, so you can add any type of message or social post such as 
 add gradle dependency to your dependency list:
 
 ``` groovy
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+
+``` groovy
 dependencies {
-	compile ''
+	 implementation 'com.github.TutorialsAndroid:Postui:v0.1'
 }
 ```
 
@@ -70,7 +79,7 @@ Description:
 - `cmv_backgroundColor` sets background color of `ChatMessageView` in normal mode including arrow.
 - `cmv_backgroundColorPressed` sets background color of `ChatMessageView` in pressed mode including arrow.
 - `cmv_cornerRadius` sets corner radius of the box.
-- `cmv_showArrow` shows / hides arrow from `ChatMessageView`.
+- `cmv_showArrow` shows / hides arrow from `PostMessageView`.
 
 
 
