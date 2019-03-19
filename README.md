@@ -6,6 +6,8 @@ Its a container view, so you can add any type of message or social post such as 
 
 [![Known Vulnerabilities](https://snyk.io/test/github/TutorialsAndroid/Postui/badge.svg?targetFile=postui%2Fbuild.gradle)](https://snyk.io/test/github/TutorialsAndroid/Postui?targetFile=postui%2Fbuild.gradle)
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Postui-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/7580)
+
 **Library Available at JitPack.io**
 
 [![](https://jitpack.io/v/TutorialsAndroid/Postui.svg)](https://jitpack.io/#TutorialsAndroid/Postui)
