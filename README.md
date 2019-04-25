@@ -1,14 +1,9 @@
-# PostMessageView
+# PostMessageView [![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15) [![Known Vulnerabilities](https://snyk.io/test/github/TutorialsAndroid/Postui/badge.svg?targetFile=postui%2Fbuild.gradle)](https://snyk.io/test/github/TutorialsAndroid/Postui?targetFile=postui%2Fbuild.gradle) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Postui-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/7580)
+
 PostMessageView helps you to create chat message view or a social media message view quickly like a typical chatting application or social post view
 Its a container view, so you can add any type of message or social post such as TextView or any customize TextView, ImageView, etc.
 
-[![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15)
-
-[![Known Vulnerabilities](https://snyk.io/test/github/TutorialsAndroid/Postui/badge.svg?targetFile=postui%2Fbuild.gradle)](https://snyk.io/test/github/TutorialsAndroid/Postui?targetFile=postui%2Fbuild.gradle)
-
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Postui-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/7580)
-
-![](https://github.com/TutorialsAndroid/crashx/blob/master/images/WPLink.jpg)
+![](https://github.com/TutorialsAndroid/crashx/blob/master/images/WPLink1.jpg)
 
 **Library Available at JitPack.io**
 
