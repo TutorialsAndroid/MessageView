@@ -3,8 +3,6 @@
 PostMessageView helps you to create chat message view or a social media message view quickly like a typical chatting application or social post view
 Its a container view, so you can add any type of message or social post such as TextView or any customize TextView, ImageView, etc.
 
-![](https://github.com/TutorialsAndroid/crashx/blob/master/images/WPLink1.jpg)
-
 **Library Available at JitPack.io**
 
 [![](https://jitpack.io/v/TutorialsAndroid/Postui.svg)](https://jitpack.io/#TutorialsAndroid/Postui)
