@@ -7,11 +7,6 @@ Its a container view, so you can add any type of message or social post such as 
 
 [![](https://jitpack.io/v/TutorialsAndroid/Postui.svg)](https://jitpack.io/#TutorialsAndroid/Postui)
 
-## Important
-
-**Note this library was made in the making for `Kinda` app this library was copied from `ChatMessgaeView` repository on github we made this library because we want to use own library on `Kinda` app.So this library is in development we will monthly
-update this library with some changes.**
-
 ## Features
 1. Can have any child inside of it.
 2. You can change color of `PostMessageView` normal and pressed.
