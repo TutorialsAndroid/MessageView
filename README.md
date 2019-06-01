@@ -13,10 +13,10 @@ Its a container view, so you can add any type of message or social post such as 
 
 ## Features
 1. Can have any child inside of it.
-2. You can change color of `PostMessageView` normal and pressed.
+2. You can change color of `MessageView` normal and pressed.
 3. Adjustable arrow position (top, bottom, left, right)
 4. Adjustable arrow gravity (start, end, center)
-5. Post view without arrow
+5. Message view without arrow
 
 ### Sample Screen
 ![](https://github.com/TutorialsAndroid/MessageView/blob/master/art/device-2019-03-17-130446.png)
