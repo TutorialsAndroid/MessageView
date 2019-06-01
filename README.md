@@ -80,12 +80,12 @@ Description:
 
 - `arrowGravity` controls relative position of arrow. possible values are `start`,`end` and `center`. default is `left`.
 - `arrowPosition` controls poition of the arrow outside the box. possible values are `right`,`left`,`top` and `bottom`. default is `left`.
-- `arrowMargin` controls margin of arrow. If `cmv_arrowPosition` is `left` or `right` it controls top and bottom margin. else it controls left and right margin.
+- `arrowMargin` controls margin of arrow. If `arrowPosition` is `left` or `right` it controls top and bottom margin. else it controls left and right margin.
 - `contentPadding` adjusts padding of content within the box.
-- `backgroundColor` sets background color of `ChatMessageView` in normal mode including arrow.
-- `backgroundColorPressed` sets background color of `ChatMessageView` in pressed mode including arrow.
+- `backgroundColor` sets background color of `MessageView` in normal mode including arrow.
+- `backgroundColorPressed` sets background color of `MessageView` in pressed mode including arrow.
 - `cornerRadius` sets corner radius of the box.
-- `showArrow` shows / hides arrow from `PostMessageView`.
+- `showArrow` shows / hides arrow from `MessageView`.
 
 ----
 developed to make programming easy.
