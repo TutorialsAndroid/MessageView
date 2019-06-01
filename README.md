@@ -5,7 +5,7 @@
 MessageView helps you to create chat message view or a social media post view quickly like a typical chatting application or social media post view
 Its a container view, so you can add any type of message or social post such as TextView or any customize TextView, ImageView, etc.
 
-`Library name change from Postui to MessageView`
+`Library name change from Postui to MessageView.We have removed postui api instead of postui you can use message view api read the below docs.`
 
 **Library Available at JitPack.io**
 
