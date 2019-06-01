@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Postui.iml" filepath="$PROJECT_DIR$/Postui.iml" />
-      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
-      <module fileurl="file://$PROJECT_DIR$/postui/postui.iml" filepath="$PROJECT_DIR$/postui/postui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messageView/messageView.iml" filepath="$PROJECT_DIR$/messageView/messageView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messageview.iml" filepath="$PROJECT_DIR$/messageview.iml" />
     </modules>
   </component>
 </project>

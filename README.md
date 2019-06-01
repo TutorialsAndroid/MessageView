@@ -26,7 +26,7 @@ dependencies {
 1. Include `PostMessageView` in your xml of adapter view with content inside.
 
 ``` xml
-<com.kinda.postui.PostMessageView
+  <com.kinda.messageview.MessageView
 	xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
@@ -42,7 +42,7 @@ dependencies {
 
         <!-- ... -->
 
-</com.kinda.postui.PostMessageView>
+  </com.kinda.messageview.MessageView>
 ```
 
 
