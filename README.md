@@ -1,6 +1,6 @@
 ![](https://github.com/TutorialsAndroid/MessageView/blob/master/messageViewLogo.png)
 
-# MessageView [![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15) 
+# MessageView [![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MessageView-orange.svg?style=flat)](https://android-arsenal.com/details/1/7580) 
 
 MessageView helps you to create chat message view or a social media post view quickly like a typical chatting application or social media post view
 Its a container view, so you can add any type of message or social post such as TextView or any customize TextView, ImageView, etc.
