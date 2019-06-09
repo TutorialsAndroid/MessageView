@@ -1,7 +1,7 @@
 package com.kinda.messageview;
 
 import android.graphics.drawable.ColorDrawable;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 public abstract class MessageViewStateDrawable extends ColorDrawable {
 
