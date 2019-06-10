@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.kinda.messageview.main.MainActivity">
+    tools:context="com.developer.kinda.messageview.MainActivity">
 
     <FrameLayout
         android:layout_width="match_parent"

@@ -10,10 +10,10 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.kinda.messageview.main.SingleViewActivity"
+    tools:context="com.developer.kinda.messageview.SingleViewActivity"
     tools:showIn="@layout/activity_single_view">
 
-    <com.kinda.messageview.MessageView
+    <com.developer.kinda.MessageView
         android:id="@+id/chatMessageView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -32,7 +32,7 @@
             android:layout_height="wrap_content"
             android:text="@string/app_name"
             android:textAppearance="@style/TextAppearance.AppCompat.Title" />
-    </com.kinda.messageview.MessageView>
+    </com.developer.kinda.MessageView>
 
     <LinearLayout
         android:layout_width="match_parent"

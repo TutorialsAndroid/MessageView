@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="com.kinda.messageview.main.SingleViewActivity">
+    tools:context="com.developer.kinda.messageview.SingleViewActivity">
 
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"

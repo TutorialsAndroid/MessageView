@@ -6,37 +6,37 @@
     density="hdpi"
     format="10"
     plugin-version="3.4.1"
-    timestamp="1560095064629"
+    timestamp="1560160175946"
     token="-758200840962208895"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="7797" />
+        duration="13859" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="2750" />
+        duration="5844" />
     <task
         name="verifier"
-        duration="2312" />
+        duration="1109" />
 
     <artifact
         location="E:\GithubProjects\messageview\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
         type="SPLIT" />
     <artifact
-        location="E:\GithubProjects\messageview\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-        type="SPLIT" />
-    <artifact
         location="E:\GithubProjects\messageview\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="E:\GithubProjects\messageview\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        location="E:\GithubProjects\messageview\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
         location="E:\GithubProjects\messageview\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\GithubProjects\messageview\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
         type="SPLIT" />
     <artifact
         location="E:\GithubProjects\messageview\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
@@ -62,22 +62,22 @@
 
     <build
         build-mode="FULL"
-        timestamp="1560095064629"
+        timestamp="1560160175946"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="E:\GithubProjects\messageview\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="E:\GithubProjects\messageview\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
             location="E:\GithubProjects\messageview\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="E:\GithubProjects\messageview\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="E:\GithubProjects\messageview\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
             location="E:\GithubProjects\messageview\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\GithubProjects\messageview\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
             location="E:\GithubProjects\messageview\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
