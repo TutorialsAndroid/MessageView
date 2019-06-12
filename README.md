@@ -35,14 +35,14 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	         implementation 'com.github.TutorialsAndroid:MessageView:v3.0.19'
+	         implementation 'com.github.TutorialsAndroid:MessageView:v4.0.19'
 	}
 
 ### Use
 1. Include `MessageView` in your xml of adapter view with content inside.
 
 ``` xml
-<com.kinda.developer.MessageView
+<com.developer.messageview.MessageView
 	xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
@@ -58,7 +58,7 @@ Step 2. Add the dependency
 
         <!-- ... -->
 
-</com.kinda.developer.MessageView>
+</com.developer.messageview.MessageView>
 ```
 
 ### Customization
