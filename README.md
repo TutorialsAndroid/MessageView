@@ -11,6 +11,8 @@ Its a container view, so you can add any type of message or social post such as 
 
 [![](https://jitpack.io/v/TutorialsAndroid/MessageView.svg)](https://jitpack.io/#TutorialsAndroid/MessageView)
 
+`Latest version of this library is migrated to androidx`
+
 ## Features
 1. Can have any child inside of it.
 2. You can change color of `MessageView` normal and pressed.
