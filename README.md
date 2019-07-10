@@ -13,6 +13,9 @@ Its a container view, so you can add any type of message or social post such as 
 
 `Latest version of this library is migrated to androidx`
 
+## Download My Kinda App. A new way to debate on the topic
+[![](https://github.com/TutorialsAndroid/Spoti/blob/master/art/google-play-badge.png)](https://bit.ly/kindadownload)
+
 ## Features
 1. Can have any child inside of it.
 2. You can change color of `MessageView` normal and pressed.
