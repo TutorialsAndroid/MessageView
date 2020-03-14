@@ -13,6 +13,10 @@ Its a container view, so you can add any type of message or social post such as 
 
 `Latest version of this library is migrated to androidx`
 
+## Download Our New App
+
+[Cocktail Friendship App](https://play.google.com/store/apps/details?id=developer.cocktail)
+
 ## Features
 1. Can have any child inside of it.
 2. You can change color of `MessageView` normal and pressed.
