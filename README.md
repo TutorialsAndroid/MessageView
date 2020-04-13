@@ -13,13 +13,9 @@ Its a container view, so you can add any type of message or social post such as 
 
 `Latest version of this library is migrated to androidx`
 
-## Hire-Us
+## Hire-Me
 
-<p align="center">Are you having trouble in your android projects then let us help you with it just Email Us. We love our users, so feel free to visit https://asm.life
-
-## Download Our New App
-
-[Cocktail Friendship App](https://play.google.com/store/apps/details?id=developer.cocktail)
+<p align="center">Are you having trouble in your android projects then let me help you with it just Email me. I love my users, so feel free to visit http://asm.life
 
 ## Features
 1. Can have any child inside of it.
