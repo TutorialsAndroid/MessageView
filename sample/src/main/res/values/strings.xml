@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Message View</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="single_view">Single View</string>
+    <string name="title_activity_single_view">SingleViewActivity</string>
+    <string name="send">Send</string>
+    <string name="arrow_position">Arrow Position</string>
+    <string name="top">TOP</string>
+    <string name="bottom">bottom</string>
+    <string name="left">left</string>
+    <string name="right">right</string>
+    <string name="arrow_gravity">Arrow Gravity</string>
+    <string name="start">start</string>
+    <string name="center">center</string>
+    <string name="end">end</string>
+</resources>

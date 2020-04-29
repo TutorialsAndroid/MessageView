@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+attr? arrowGravity
+attr? arrowMargin
+attr? arrowPosition
+attr? backgroundColor
+attr? backgroundColorPressed
+attr? padding
+attr? radius
+attr? showArrow
+drawable mv_arrow
+id bottom
+id center
+id end
+id left
+id right
+id start
+id top
+string app_name
+styleable MessageView showArrow arrowPosition arrowGravity backgroundColor backgroundColorPressed radius padding arrowMargin

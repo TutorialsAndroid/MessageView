@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">messageview</string>
+    <declare-styleable name="MessageView">
+        <attr format="boolean" name="showArrow"/>
+        <attr format="enum" name="arrowPosition">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+            <enum name="top" value="2"/>
+            <enum name="bottom" value="3"/>
+        </attr>
+        <attr format="enum" name="arrowGravity">
+            <enum name="start" value="0"/>
+            <enum name="center" value="1"/>
+            <enum name="end" value="2"/>
+        </attr>
+        <attr format="color" name="backgroundColor"/>
+        <attr format="color" name="backgroundColorPressed"/>
+        <attr format="dimension" name="radius"/>
+        <attr format="dimension" name="padding"/>
+        <attr format="dimension" name="arrowMargin"/>
+
+    </declare-styleable>
+</resources>
