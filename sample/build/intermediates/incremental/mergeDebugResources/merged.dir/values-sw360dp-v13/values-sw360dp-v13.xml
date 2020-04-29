@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <bool name="config_materialPreferenceIconSpaceReserved">true</bool>
+<<<<<<< HEAD
+=======
+    <dimen name="preference_category_padding_start">56dp</dimen>
+>>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
 </resources>

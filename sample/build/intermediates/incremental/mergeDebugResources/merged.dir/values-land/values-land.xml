@@ -3,6 +3,7 @@
     <dimen name="abc_action_bar_default_height_material">48dp</dimen>
     <dimen name="abc_text_size_subtitle_material_toolbar">12dp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">14dp</dimen>
+<<<<<<< HEAD
     <dimen name="mtrl_alert_dialog_background_inset_bottom">24dp</dimen>
     <dimen name="mtrl_alert_dialog_background_inset_end">24dp</dimen>
     <dimen name="mtrl_alert_dialog_background_inset_start">24dp</dimen>
@@ -21,10 +22,13 @@
     <dimen name="mtrl_calendar_title_baseline_to_top_fullscreen">32dp</dimen>
     <integer name="mtrl_calendar_header_orientation">0</integer>
     <integer name="mtrl_calendar_selection_text_lines">6</integer>
+=======
+>>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
     <style name="Widget.Design.TabLayout" parent="Base.Widget.Design.TabLayout">
     <item name="tabGravity">center</item>
     <item name="tabMode">fixed</item>
   </style>
+<<<<<<< HEAD
     <style name="Widget.MaterialComponents.MaterialCalendar.HeaderSelection" parent="Widget.AppCompat.TextView">
     <item name="android:textAppearance">?attr/textAppearanceHeadline6</item>
     <item name="android:textColor">?attr/colorOnPrimary</item>
@@ -36,4 +40,6 @@
     <item name="android:maxLines">1</item>
     <item name="autoSizeMaxTextSize">20sp</item>
   </style>
+=======
+>>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
 </resources>

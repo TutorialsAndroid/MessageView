@@ -7,10 +7,17 @@ android {
     compileSdkVersion 29
 
     defaultConfig {
+<<<<<<< HEAD
         minSdkVersion 15  //Added Support For Older Android Version
         targetSdkVersion 29
         versionCode 6
         versionName "5.0.19"
+=======
+        minSdkVersion 21
+        targetSdkVersion 29
+        versionCode 5
+        versionName "4.0.19"
+>>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
     }
     buildTypes {
         release {
@@ -18,16 +25,20 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+<<<<<<< HEAD
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+=======
+>>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
 }
 
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
 
+<<<<<<< HEAD
     //ANDROIDX JET-PACK
     implementation 'androidx.annotation:annotation:1.1.0'
     implementation 'androidx.appcompat:appcompat:1.1.0'
@@ -35,5 +46,14 @@ dependencies {
     implementation 'androidx.recyclerview:recyclerview:1.1.0'
     implementation 'com.google.android.material:material:1.1.0'
     implementation 'androidx.preference:preference:1.1.1'
+=======
+    //android support library
+    implementation 'androidx.annotation:annotation:1.1.0'
+    implementation 'androidx.appcompat:appcompat:1.0.2'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'androidx.recyclerview:recyclerview:1.0.0'
+    implementation 'com.google.android.material:material:1.0.0'
+    implementation 'androidx.preference:preference:1.0.0'
+>>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
 }
