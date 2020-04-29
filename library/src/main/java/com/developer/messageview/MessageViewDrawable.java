@@ -8,14 +8,10 @@ import android.graphics.PixelFormat;
 import android.graphics.Rect;
 import android.graphics.RectF;
 import android.graphics.drawable.Drawable;
-<<<<<<< HEAD
 import android.os.Build;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.RequiresApi;
-=======
-import androidx.annotation.NonNull;
->>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
 
 public class MessageViewDrawable extends Drawable {
     private final Paint paint;
@@ -45,10 +41,7 @@ public class MessageViewDrawable extends Drawable {
         updateBounds(bounds);
     }
 
-<<<<<<< HEAD
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
-=======
->>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
     @Override
     public void getOutline(@NonNull Outline outline) {
         outline.setRoundRect(rect, radius);

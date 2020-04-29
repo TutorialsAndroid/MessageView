@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/MessageView-master.iml" filepath="$PROJECT_DIR$/MessageView-master.iml" group="MessageView-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MessageView-master.iml" filepath="$PROJECT_DIR$/.idea/MessageView-master.iml" group="MessageView-master" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" group="MessageView-master/library" />
       <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" group="MessageView-master/sample" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/messageview.iml" filepath="$PROJECT_DIR$/messageview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
->>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
     </modules>
   </component>
 </project>

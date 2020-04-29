@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="notification_action_color_filter">@color/secondary_text_default_material_light</color>
-<<<<<<< HEAD
     <dimen name="mtrl_calendar_pre_l_text_clip_padding">0dp</dimen>
     <dimen name="mtrl_exposed_dropdown_menu_popup_vertical_offset">1dp</dimen>
     <item format="float" name="mtrl_high_ripple_default_alpha" type="dimen">0.48</item>
@@ -16,12 +15,6 @@
     <dimen name="notification_main_column_padding_top">0dp</dimen>
     <dimen name="notification_media_narrow_margin">12dp</dimen>
     <dimen name="preference_dropdown_padding_start">72dp</dimen>
-=======
-    <dimen name="notification_content_margin_start">0dp</dimen>
-    <dimen name="notification_main_column_padding_top">0dp</dimen>
-    <dimen name="notification_media_narrow_margin">12dp</dimen>
-    <dimen name="preference_no_icon_padding_start">72dp</dimen>
->>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
     <style name="AppTheme.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
@@ -70,11 +63,7 @@
     </style>
     <style name="Base.TextAppearance.AppCompat.Widget.Button" parent="android:TextAppearance.Material.Widget.Button"/>
     <style name="Base.TextAppearance.AppCompat.Widget.PopupMenu.Header" parent="TextAppearance.AppCompat">
-<<<<<<< HEAD
         <item name="android:fontFamily">sans-serif-medium</item>
-=======
-        <item name="android:fontFamily">@string/abc_font_family_title_material</item>
->>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
         <item name="android:textSize">@dimen/abc_text_size_menu_header_material</item>
         <item name="android:textColor">?android:attr/textColorSecondary</item>
     </style>
@@ -93,12 +82,9 @@
     <style name="Base.Theme.AppCompat.Light" parent="Base.V21.Theme.AppCompat.Light"/>
     <style name="Base.Theme.AppCompat.Light.Dialog" parent="Base.V21.Theme.AppCompat.Light.Dialog"/>
     <style name="Base.ThemeOverlay.AppCompat.Dialog" parent="Base.V21.ThemeOverlay.AppCompat.Dialog"/>
-<<<<<<< HEAD
     <style name="Base.ThemeOverlay.MaterialComponents.Dialog" parent="Base.V14.ThemeOverlay.MaterialComponents.Dialog">
     <item name="android:windowBackground">@drawable/mtrl_dialog_background</item>
   </style>
-=======
->>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
     <style name="Base.V21.Theme.AppCompat" parent="Base.V7.Theme.AppCompat">
         <!-- Action Bar styling attributes -->
         <item name="actionBarSize">?android:attr/actionBarSize</item>
@@ -107,10 +93,6 @@
         <item name="actionButtonStyle">?android:attr/actionButtonStyle</item>
         <item name="actionModeBackground">?android:attr/actionModeBackground</item>
         <item name="actionModeCloseDrawable">?android:attr/actionModeCloseDrawable</item>
-<<<<<<< HEAD
-=======
-        <item name="actionOverflowButtonStyle">?android:attr/actionOverflowButtonStyle</item>
->>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
         <item name="homeAsUpIndicator">?android:attr/homeAsUpIndicator</item>
 
         <!-- For PopupMenu -->
@@ -157,10 +139,6 @@
         <item name="actionButtonStyle">?android:attr/actionButtonStyle</item>
         <item name="actionModeBackground">?android:attr/actionModeBackground</item>
         <item name="actionModeCloseDrawable">?android:attr/actionModeCloseDrawable</item>
-<<<<<<< HEAD
-=======
-        <item name="actionOverflowButtonStyle">?android:attr/actionOverflowButtonStyle</item>
->>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
         <item name="homeAsUpIndicator">?android:attr/homeAsUpIndicator</item>
 
         <!-- For PopupMenu -->
@@ -212,11 +190,8 @@
         <item name="android:minWidth">56dp</item>
     </style>
     <style name="Base.Widget.AppCompat.ActionButton.Overflow" parent="android:Widget.Material.ActionButton.Overflow">
-<<<<<<< HEAD
         <item name="android:src">@null</item>
         <item name="srcCompat">@drawable/abc_ic_menu_overflow_material</item>
-=======
->>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
     </style>
     <style name="Base.Widget.AppCompat.AutoCompleteTextView" parent="android:Widget.Material.AutoCompleteTextView">
         <item name="android:background">?attr/editTextBackground</item>
@@ -265,7 +240,6 @@
     <style name="Base.Widget.AppCompat.RatingBar" parent="android:Widget.Material.RatingBar"/>
     <style name="Base.Widget.AppCompat.SeekBar" parent="android:Widget.Material.SeekBar"/>
     <style name="Base.Widget.AppCompat.Spinner" parent="android:Widget.Material.Spinner"/>
-<<<<<<< HEAD
     <style name="Base.Widget.AppCompat.TextView" parent="android:Widget.Material.TextView"/>
     <style name="Base.Widget.AppCompat.TextView.SpinnerItem" parent="android:Widget.Material.TextView.SpinnerItem"/>
     <style name="Base.Widget.AppCompat.Toolbar.Button.Navigation" parent="android:Widget.Material.Toolbar.Button.Navigation">
@@ -296,11 +270,6 @@
     <item name="shapeAppearance">?attr/shapeAppearanceMediumComponent</item>
     <item name="android:datePickerMode">spinner</item>
   </style>
-=======
-    <style name="Base.Widget.AppCompat.TextView.SpinnerItem" parent="android:Widget.Material.TextView.SpinnerItem"/>
-    <style name="Base.Widget.AppCompat.Toolbar.Button.Navigation" parent="android:Widget.Material.Toolbar.Button.Navigation">
-    </style>
->>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
     <style name="Platform.AppCompat" parent="Platform.V21.AppCompat"/>
     <style name="Platform.AppCompat.Light" parent="Platform.V21.AppCompat.Light"/>
     <style name="Platform.ThemeOverlay.AppCompat" parent="">
@@ -339,7 +308,6 @@
         <item name="android:buttonBarStyle">?attr/buttonBarStyle</item>
         <item name="android:buttonBarButtonStyle">?attr/buttonBarButtonStyle</item>
     </style>
-<<<<<<< HEAD
     <style name="PreferenceCategoryTitleTextStyle">
         <item name="android:textAppearance">?attr/preferenceCategoryTitleTextAppearance</item>
         <item name="android:textColor">?android:attr/colorAccent</item>
@@ -347,8 +315,6 @@
     <style name="PreferenceSummaryTextStyle">
         <item name="android:textAppearance">?android:attr/textAppearanceListItemSecondary</item>
     </style>
-=======
->>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
     <style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.Material.Notification"/>
     <style name="TextAppearance.Compat.Notification.Info" parent="@android:style/TextAppearance.Material.Notification.Info"/>
     <style name="TextAppearance.Compat.Notification.Info.Media">
@@ -365,7 +331,6 @@
     <style name="TextAppearance.Compat.Notification.Title.Media">
         <item name="android:textColor">@color/primary_text_default_material_dark</item>
     </style>
-<<<<<<< HEAD
     <style name="TextAppearance.MaterialComponents.Badge" parent="Base.TextAppearance.MaterialComponents.Badge">
     <!-- Roboto Medium was added in this api level -->
     <item name="fontFamily">sans-serif-medium</item>
@@ -405,39 +370,6 @@
   </style>
     <style name="ThemeOverlay.MaterialComponents.MaterialAlertDialog.Picker.Date.Spinner">
     <item name="android:datePickerStyle">@style/MaterialAlertDialog.MaterialComponents.Picker.Date.Spinner</item>
-=======
-    <style name="TextAppearance.MaterialComponents.Button" parent="TextAppearance.AppCompat.Button">
-    <item name="fontFamily">sans-serif-medium</item>
-    <item name="android:fontFamily">sans-serif-medium</item>
-    <item name="android:textStyle">normal</item>
-    <item name="android:textAllCaps">true</item>
-    <item name="android:textSize">14sp</item>
-    <item name="android:letterSpacing">0.0892857143</item>
-  </style>
-    <style name="TextAppearance.MaterialComponents.Headline6" parent="TextAppearance.AppCompat.Title">
-    <item name="fontFamily">sans-serif-medium</item>
-    <item name="android:fontFamily">sans-serif-medium</item>
-    <item name="android:textStyle">normal</item>
-    <item name="android:textAllCaps">false</item>
-    <item name="android:textSize">20sp</item>
-    <item name="android:letterSpacing">0.0125</item>
-  </style>
-    <style name="TextAppearance.MaterialComponents.Overline" parent="TextAppearance.AppCompat">
-    <item name="fontFamily">sans-serif-medium</item>
-    <item name="android:fontFamily">sans-serif-medium</item>
-    <item name="android:textStyle">normal</item>
-    <item name="android:textAllCaps">true</item>
-    <item name="android:textSize">12sp</item>
-    <item name="android:letterSpacing">0.166666667</item>
-  </style>
-    <style name="TextAppearance.MaterialComponents.Subtitle2" parent="TextAppearance.AppCompat.Subhead">
-    <item name="fontFamily">sans-serif-medium</item>
-    <item name="android:fontFamily">sans-serif-medium</item>
-    <item name="android:textStyle">normal</item>
-    <item name="android:textAllCaps">false</item>
-    <item name="android:textSize">14sp</item>
-    <item name="android:letterSpacing">0.00714285714</item>
->>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
   </style>
     <style name="Widget.Compat.NotificationActionContainer" parent="">
         <item name="android:background">@drawable/notification_action_background</item>
@@ -447,7 +379,6 @@
         <item name="android:textColor">@color/secondary_text_default_material_light</item>
         <item name="android:textSize">@dimen/notification_action_text_size</item>
     </style>
-<<<<<<< HEAD
     <style name="Widget.MaterialComponents.PopupMenu" parent="Base.Widget.MaterialComponents.PopupMenu">
     <item name="android:popupBackground">?attr/popupMenuBackground</item>
     <item name="android:popupElevation">8dp</item>
@@ -456,6 +387,4 @@
     <item name="android:popupBackground">?attr/popupMenuBackground</item>
     <item name="android:popupElevation">8dp</item>
   </style>
-=======
->>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
 </resources>

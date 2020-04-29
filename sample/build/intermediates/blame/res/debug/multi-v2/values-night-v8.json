@@ -1,7 +1,6 @@
 {
     "logs": [
         {
-<<<<<<< HEAD
             "outputFile": "D:\\Projects\\MessageView-master\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
@@ -36,18 +35,6 @@
                         "startOffsets": "55,125,209,293,389,491,593,2549",
                         "endColumns": "69,83,83,95,101,101,93,88",
                         "endOffsets": "120,204,288,384,486,588,682,2633"
-=======
-            "outputFile": "E:\\GithubProjects\\kindaLibraries\\messageview\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\aksha\\.gradle\\caches\\transforms-2\\files-2.1\\2322242f10d37b95044b48fdbe633d22\\res\\values-night-v8\\values-night-v8.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,125,209,293,389,491,593",
-                        "endColumns": "69,83,83,95,101,101,93",
-                        "endOffsets": "120,204,288,384,486,588,682"
->>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
                     }
                 }
             ]

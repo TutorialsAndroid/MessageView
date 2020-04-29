@@ -1,7 +1,6 @@
 {
     "logs": [
         {
-<<<<<<< HEAD
             "outputFile": "D:\\Projects\\MessageView-master\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
@@ -16,12 +15,6 @@
                 },
                 {
                     "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\12f90e4a0099d3b956423f4d3ec00c1c\\media-1.0.0\\res\\values-v24\\values-v24.xml",
-=======
-            "outputFile": "E:\\GithubProjects\\kindaLibraries\\messageview\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\aksha\\.gradle\\caches\\transforms-2\\files-2.1\\4e0699824ad509787621c98f53159e14\\res\\values-v24\\values-v24.xml",
->>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -36,19 +29,6 @@
                         "endColumns": "65,60,65,66",
                         "endOffsets": "408,469,535,602"
                     }
-<<<<<<< HEAD
-=======
-                },
-                {
-                    "source": "C:\\Users\\aksha\\.gradle\\caches\\transforms-2\\files-2.1\\2322242f10d37b95044b48fdbe633d22\\res\\values-v24\\values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
-                    }
->>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
                 }
             ]
         }

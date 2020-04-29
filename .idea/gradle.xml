@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
   <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
@@ -15,16 +14,6 @@
             <option value="$PROJECT_DIR$/sample" />
           </set>
         </option>
-=======
-  <component name="GradleSettings">
-    <option name="linkedExternalProjectsSettings">
-      <GradleProjectSettings>
-        <compositeConfiguration>
-          <compositeBuild compositeDefinitionSource="SCRIPT" />
-        </compositeConfiguration>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
->>>>>>> 9592bda02243d1fc8ebeff6842937c9cd057b72d
         <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
