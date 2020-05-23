@@ -6,6 +6,11 @@
 [`Heatic Debate App Download Now`](https://play.google.com/store/apps/details?id=com.asm.heatic)
 
 
+## And Don't Forget To Follow Me On Instagram
+
+<p align="center">Follow me on instagram to stay up-to-date https://instagram.com/akshaysunilmasram 
+
+
 MessageView helps you to create chat message view or a social media post view quickly like a typical chatting application or social media post view
 Its a container view, so you can add any type of message or social post such as TextView or any customize TextView, ImageView, etc.
 
