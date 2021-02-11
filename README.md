@@ -22,10 +22,6 @@ Its a container view, so you can add any type of message or social post such as 
 
 `Latest version of this library is migrated to androidx`
 
-## Hire-Me
-
-<p align="center">Are you having trouble in your android projects then let me help you with it just Email me. I love my users, so feel free to visit http://asm.life
-
 ## Features
 1. Can have any child inside of it.
 2. You can change color of `MessageView` normal and pressed.
