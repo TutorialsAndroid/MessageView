@@ -8,7 +8,7 @@
 
 ## And Don't Forget To Follow Me On Instagram
 
-<p align="center">Follow me on instagram to stay up-to-date https://instagram.com/akshay.sunil.masram.1998
+<p align="center">Follow me on instagram to stay up-to-date https://instagram.com/a.masram444
 
 
 MessageView helps you to create chat message view or a social media post view quickly like a typical chatting application or social media post view
