@@ -1,16 +1,35 @@
 apply plugin: 'com.android.library'
+apply plugin: 'maven-publish'
 
-apply plugin: 'com.github.dcendents.android-maven'
-group='com.github.TutorialsAndroid'
+ext {
+    PUBLISH_GROUP_ID = 'io.github.tutorialsandroid'
+    PUBLISH_VERSION = '6.0.0'
+    PUBLISH_ARTIFACT_ID = 'messageview'
+    PUBLISH_DESCRIPTION = 'MessageView helps you to create chat message view or a social media message view quickly like a typical chatting application or social post view Its a container view, so you can add any type of message or social post such as TextView or any customize TextView, ImageView, etc.'
+    PUBLISH_URL = 'https://github.com/tutorialsandroid/messageview'
+    PUBLISH_LICENSE_NAME = 'Apache License'
+    PUBLISH_LICENSE_URL =
+            'https://github.com/TutorialsAndroid/MessageView/blob/master/LICENSE'
+    PUBLISH_DEVELOPER_ID = 'tutorialsandroid'
+    PUBLISH_DEVELOPER_NAME = 'Akshay Masram'
+    PUBLISH_DEVELOPER_EMAIL = 'akshaysunilmasram@yahoo.com'
+    PUBLISH_SCM_CONNECTION =
+            'scm:git:github.com/tutorialsandroid/messageview.git'
+    PUBLISH_SCM_DEVELOPER_CONNECTION =
+            'scm:git:ssh://github.com/tutorialsandroid/messageview.git'
+    PUBLISH_SCM_URL =
+            'https://github.com/tutorialsandroid/messageview/tree/master'
+}
+apply from: "${rootProject.projectDir}/scripts/publish-module.gradle"
 
 android {
-    compileSdkVersion 29
+    namespace 'com.developer.messageview'
+
+    compileSdk 34
 
     defaultConfig {
-        minSdkVersion 15  //Added Support For Older Android Version
-        targetSdkVersion 29
-        versionCode 6
-        versionName "5.0.19"
+        minSdkVersion 19
+        targetSdkVersion 34
     }
     buildTypes {
         release {
@@ -20,8 +39,12 @@ android {
     }
 
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+
+    lint {
+        abortOnError false
     }
 }
 
@@ -29,10 +52,10 @@ dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
 
     //ANDROIDX JET-PACK
-    implementation 'androidx.annotation:annotation:1.1.0'
-    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'androidx.annotation:annotation:1.7.0'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
-    implementation 'androidx.recyclerview:recyclerview:1.1.0'
-    implementation 'com.google.android.material:material:1.1.0'
-    implementation 'androidx.preference:preference:1.1.1'
+    implementation 'androidx.recyclerview:recyclerview:1.3.1'
+    implementation 'com.google.android.material:material:1.9.0'
+    implementation 'androidx.preference:preference:1.2.1'
 }

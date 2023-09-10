@@ -2,14 +2,15 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 29
+    namespace 'com.developer.messageview.view'
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.developer.messageview.view"
-        minSdkVersion 15    //Added Support For Older Android Version
-        targetSdkVersion 29
-        versionCode 6
-        versionName "5.0.19"
+        minSdkVersion 19
+        targetSdkVersion 34
+        versionCode 7
+        versionName "6.0.0"
     }
     buildTypes {
         release {
@@ -19,8 +20,8 @@ android {
     }
 
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
     }
 }
 
@@ -31,9 +32,9 @@ dependencies {
     implementation project(':library')
 
     //ANDROIDX JET-PACK
-    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
-    implementation 'androidx.recyclerview:recyclerview:1.1.0'
-    implementation 'com.google.android.material:material:1.1.0'
-    implementation 'androidx.preference:preference:1.1.1'
+    implementation 'androidx.recyclerview:recyclerview:1.3.1'
+    implementation 'com.google.android.material:material:1.9.0'
+    implementation 'androidx.preference:preference:1.2.1'
 }

@@ -233,11 +233,7 @@ public class MessageView extends RelativeLayout {
     @TargetApi(Build.VERSION_CODES.LOLLIPOP)
     private void updateColors() {
         MessageViewDrawable roundRectDrawable = new MessageViewDrawable(backgroundColor, cornerRadius);
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN) {
-            containerLayout.setBackground(roundRectDrawable);
-        } else {
-            containerLayout.setBackgroundDrawable(roundRectDrawable);
-        }
+        containerLayout.setBackground(roundRectDrawable);
 
         normalDrawable.setTint(backgroundColor);
         pressedDrawable.setTint(backgroundColorPressed);
@@ -262,11 +258,7 @@ public class MessageView extends RelativeLayout {
             }
         };
 
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN) {
-            setBackground(stateDrawable);
-        } else {
-            setBackgroundDrawable(stateDrawable);
-        }
+        setBackground(stateDrawable);
 
     }
 
@@ -297,14 +289,13 @@ public class MessageView extends RelativeLayout {
 
         static ArrowPosition getEnum(int value) {
             switch (value) {
-                case 0:
-                    return LEFT;
                 case 1:
                     return RIGHT;
                 case 2:
                     return TOP;
                 case 3:
                     return BOTTOM;
+                case 0:
                 default:
                     return LEFT;
             }
@@ -326,12 +317,11 @@ public class MessageView extends RelativeLayout {
 
         static ArrowGravity getEnum(int value) {
             switch (value) {
-                case 0:
-                    return START;
                 case 1:
                     return CENTER;
                 case 2:
                     return END;
+                case 0:
                 default:
                     return START;
             }

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>io.github.tutorialsandroid</groupId>
+  <artifactId>messageview</artifactId>
+  <version>6.0.0</version>
+  <packaging>aar</packaging>
+  <name>messageview</name>
+  <description>MessageView helps you to create chat message view or a social media message view quickly like a typical chatting application or social post view Its a container view, so you can add any type of message or social post such as TextView or any customize TextView, ImageView, etc.</description>
+  <url>https://github.com/tutorialsandroid/messageview</url>
+  <licenses>
+    <license>
+      <name>Apache License</name>
+      <url>https://github.com/TutorialsAndroid/MessageView/blob/master/LICENSE</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>tutorialsandroid</id>
+      <name>Akshay Masram</name>
+      <email>akshaysunilmasram@yahoo.com</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:github.com/tutorialsandroid/messageview.git</connection>
+    <developerConnection>scm:git:ssh://github.com/tutorialsandroid/messageview.git</developerConnection>
+    <url>https://github.com/tutorialsandroid/messageview/tree/master</url>
+  </scm>
+</project>
