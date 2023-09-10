@@ -10,7 +10,6 @@
 
 <p align="center">Follow me on instagram to stay up-to-date https://instagram.com/a.masram444
 
-
 MessageView helps you to create chat message view or a social media post view quickly like a typical chatting application or social media post view
 Its a container view, so you can add any type of message or social post such as TextView or any customize TextView, ImageView, etc.
 
