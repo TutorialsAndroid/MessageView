@@ -37,7 +37,7 @@ Its a container view, so you can add any type of message or social post such as 
 ![](https://github.com/TutorialsAndroid/MessageView/blob/master/sample.jpg)
 
 ### Installation with JitPack
-*( IMPORTANT NOTE: WE HAVE STOPPED PUSHING LIBRARY TO JITPACK v9.0.1 is outdated now. SEE mavenCentral() below )*
+*( IMPORTANT NOTE: WE HAVE STOPPED PUSHING LIBRARY TO JITPACK v5.0.19 is outdated now. SEE mavenCentral() below )*
 
 Add it in your root build.gradle at the end of repositories:
 
