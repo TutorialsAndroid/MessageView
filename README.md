@@ -1,6 +1,6 @@
 ![](https://github.com/TutorialsAndroid/MessageView/blob/master/sample/src/main/res/mipmap-xxhdpi/ic_launcher.png)
 
-# MessageView [![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MessageView-orange.svg?style=flat)](https://android-arsenal.com/details/1/7580) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/TutorialsAndroid/MessageView) ![Maven Central](https://img.shields.io/maven-central/v/io.github.tutorialsandroid/messageview)
+# MessageView [![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MessageView-orange.svg?style=flat)](https://android-arsenal.com/details/1/7580) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/TutorialsAndroid/MessageView) ![Maven Central](https://img.shields.io/maven-central/v/io.github.tutorialsandroid/messageview)
 
 
 [`Heatic Debate App Download Now`](https://play.google.com/store/apps/details?id=com.asm.heatic)
