@@ -1,6 +1,6 @@
 ![](https://github.com/TutorialsAndroid/MessageView/blob/master/sample/src/main/res/mipmap-xxhdpi/ic_launcher.png)
 
-# MessageView [![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MessageView-orange.svg?style=flat)](https://android-arsenal.com/details/1/7580) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/TutorialsAndroid/MessageView) 
+# MessageView [![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MessageView-orange.svg?style=flat)](https://android-arsenal.com/details/1/7580) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/TutorialsAndroid/MessageView) ![Maven Central](https://img.shields.io/maven-central/v/io.github.tutorialsandroid/messageview)
 
 
 [`Heatic Debate App Download Now`](https://play.google.com/store/apps/details?id=com.asm.heatic)
@@ -15,8 +15,9 @@ Its a container view, so you can add any type of message or social post such as 
 
 `Library name change from Postui to MessageView.We have removed postui api instead of postui you can use message view api read the below docs.`
 
-**Library Available at JitPack.io**
+**Library Available at Maven Central**
 
+*Please note jitpack version of this library is not maintained consider using maven central*
 [![](https://jitpack.io/v/TutorialsAndroid/MessageView.svg)](https://jitpack.io/#TutorialsAndroid/MessageView)
 
 `Latest version of this library is migrated to androidx`
@@ -35,8 +36,8 @@ Its a container view, so you can add any type of message or social post such as 
 **See the below demo.This demo shows how the Kinda App is using message view library.**
 ![](https://github.com/TutorialsAndroid/MessageView/blob/master/sample.jpg)
 
-### Installation
-add gradle dependency to your dependency list:
+### Installation with JitPack
+*( IMPORTANT NOTE: WE HAVE STOPPED PUSHING LIBRARY TO JITPACK v9.0.1 is outdated now. SEE mavenCentral() below )*
 
 Add it in your root build.gradle at the end of repositories:
 
@@ -51,6 +52,13 @@ Step 2. Add the dependency
 	dependencies {
 	         implementation 'com.github.TutorialsAndroid:MessageView:v5.0.19'
 	}
+
+### Installation with mavenCentral()
+Step 1. Directly add the dependency in application build.gradle file:
+
+    dependencies {
+        implementation 'io.github.tutorialsandroid:messageview:6.0.0'
+    }    
 
 ### Use
 1. Include `MessageView` in your xml of adapter view with content inside.
